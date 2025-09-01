@@ -49,3 +49,13 @@ hello-world-bot/
 **Created**: 01-Sep-2025
 
 ---
+
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-A360-orange)
+![Bot Type](https://img.shields.io/badge/Bot-Hello%20World-blue)
+
+---
+
+## 🚀 Next Steps
+- Upcoming bots (variables, exception handling).
+
+---
