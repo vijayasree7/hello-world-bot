@@ -34,6 +34,7 @@ Example:
 
 ## 🗂️ Repository Structure
 hello-world-bot/
+
 |- README.md
 
 |- hello_world_bot.png # Workflow screenshot
