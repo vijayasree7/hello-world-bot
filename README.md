@@ -15,6 +15,8 @@ It’s a beginner-friendly example to understand how bot creation works in Autom
 ---
 
 ## 🖼️ Screenshot
+
+Workflow:
 ![Hello World Bot Workflow](hello_world_bot.png) 
 
 Example:  
@@ -33,13 +35,16 @@ Example:
 ## 🗂️ Repository Structure
 hello-world-bot/
 |- README.md
+
 |- hello_world_bot.png # Workflow screenshot
+
 |- hello_world_bot_screenshot.png # Output screenshot
 
 ---
 
 ## Metadata  
 **Author**: Vijaya Sree Janjanam
+
 **Created**: 01-Sep-2025
 
 ---
