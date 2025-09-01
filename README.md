@@ -15,12 +15,31 @@ It’s a beginner-friendly example to understand how bot creation works in Autom
 ---
 
 ## 🖼️ Screenshot
-Refer to the attached screenshot hello_world_bot.png
+![Hello World Bot Workflow] (hello_world_bot.png) 
 
 Example:  
-Refer to the attached screenshot for output hello_world_bot_screenshot.png
+![Hello World Bot Output] (hello_world_bot_screenshot.png)
+
+---
+
+## How to Recreate This Bot  
+1. Log in to Automation Anywhere A360 (Community Edition).  
+2. Go to **My Bots → Create a new Bot**.  
+3. Add a **Message Box** action with `"Hello World"`.  
+4. Save and run—it should show the pop-up.
 
 ---
 
 ## 🗂️ Repository Structure
-Bots/FirstBot/hello_world_bot
+hello-world-bot/
+├─ README.md
+├─ hello_world_bot.png # Workflow screenshot
+└─ hello_world_bot_screenshot.png # Output screenshot
+
+---
+
+## Metadata  
+**Author**: Vijaya Sree Janjanam 
+**Created**: 01-Sep-2025
+
+---
