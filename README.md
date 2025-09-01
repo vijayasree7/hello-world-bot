@@ -15,10 +15,10 @@ It’s a beginner-friendly example to understand how bot creation works in Autom
 ---
 
 ## 🖼️ Screenshot
-Refer to the attached screenshot
+Refer to the attached screenshot hello_world_bot.png
 
 Example:  
-Refer to the attached screenshot for output
+Refer to the attached screenshot for output hello_world_bot_screenshot.png
 
 ---
 
