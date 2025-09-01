@@ -15,10 +15,10 @@ It’s a beginner-friendly example to understand how bot creation works in Autom
 ---
 
 ## 🖼️ Screenshot
-![Hello World Bot Workflow] (hello_world_bot.png) 
+![Hello World Bot Workflow](hello_world_bot.png) 
 
 Example:  
-![Hello World Bot Output] (hello_world_bot_screenshot.png)
+![Hello World Bot Output](hello_world_bot_screenshot.png)
 
 ---
 
@@ -32,9 +32,9 @@ Example:
 
 ## 🗂️ Repository Structure
 hello-world-bot/
-├─ README.md
-├─ hello_world_bot.png # Workflow screenshot
-└─ hello_world_bot_screenshot.png # Output screenshot
+|- README.md
+|- hello_world_bot.png # Workflow screenshot
+|- hello_world_bot_screenshot.png # Output screenshot
 
 ---
 
