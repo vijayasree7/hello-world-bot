@@ -39,7 +39,7 @@ hello-world-bot/
 ---
 
 ## Metadata  
-**Author**: Vijaya Sree Janjanam 
+**Author**: Vijaya Sree Janjanam
 **Created**: 01-Sep-2025
 
 ---
