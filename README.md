@@ -57,5 +57,6 @@ hello-world-bot/
 
 ## 🚀 Next Steps
 - Upcoming bots (variables, exception handling).
+- Visit my next repositories for other bot automation solutions.
 
 ---
