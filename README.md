@@ -22,6 +22,9 @@ Workflow:
 Example:  
 ![Hello World Bot Output](hello_world_bot_screenshot.png)
 
+🎥 Demo Video:
+[▶️ Watch Execution Demo](hello_world_bot_execution%20demo.mp4)
+
 ---
 
 ## How to Recreate This Bot  
@@ -40,6 +43,8 @@ hello-world-bot/
 |- hello_world_bot.png # Workflow screenshot
 
 |- hello_world_bot_screenshot.png # Output screenshot
+
+|- hello_world_bot_execution_demo.mp4   # 🎥 Bot execution video
 
 ---
 
