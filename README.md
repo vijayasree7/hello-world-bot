@@ -43,10 +43,10 @@ hello-world-bot/
 
 ---
 
-## Metadata  
--**Author**: Vijaya Sree Janjanam
--**Created**: 01-Sep-2025
--**Bot Type:** Automation Anywhere A360
+## 📖 Metadata
+- **Author:** Vijaya Sree Janjanam  
+- **Created:** 01-Sep-2025  
+- **Bot Type:** Automation Anywhere A360  
 
 ---
 
