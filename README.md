@@ -23,11 +23,11 @@ Example:
 ![Hello World Bot Output](hello_world_bot_screenshot.png)
 
 🎥 Demo Video:
-[▶️ Watch Execution Demo](hello_world_bot_execution%20demo.mp4)
+[▶️ Watch Execution Demo](hello_world_bot_ExecutionDemo.mp4)
 
 ---
 
-## How to Recreate This Bot  
+## 🔄 How to Recreate This Bot  
 1. Log in to Automation Anywhere A360 (Community Edition).  
 2. Go to **My Bots → Create a new Bot**.  
 3. Add a **Message Box** action with `"Hello World"`.  
@@ -44,7 +44,7 @@ hello-world-bot/
 
 |- hello_world_bot_screenshot.png # Output screenshot
 
-|- hello_world_bot_execution_demo.mp4   # 🎥 Bot execution video
+|- hello_world_bot_ExecutionDemo.mp4   # 🎥 Bot execution video
 
 ---
 
